@@ -11,7 +11,7 @@ import SwiftUI
 struct First_IOS_DemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView() //creating a brand new content view
+            ContentView()//creating a brand new content view
         }
     }
 }
